@@ -1,0 +1,5 @@
+interface:
+  display_name: "数学猜想研究助手"
+  short_description: "探索、实验、严格证明、有限查重并准备初等数学投稿材料"
+  brand_color: "#315C7A"
+  default_prompt: "使用 $research-math-conjectures 完成今天的数学猜想探索、严格证明、查重和投稿材料准备；证据不足时明确报告。"
